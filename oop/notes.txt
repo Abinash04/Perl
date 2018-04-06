@@ -1,0 +1,5 @@
+bless in perl:
+--------------
+bless causes the reference contained in its first parameter to become an object of the class specified in the second argument. The reference is essentially "blessed into a class.", or possibly more descriptively, "promoted", or "reborn" into a class.
+
+Before being blessed, a reference is just a reference. After being blessed, it's an object instance of a particular class.
